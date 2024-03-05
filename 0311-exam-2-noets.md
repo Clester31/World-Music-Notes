@@ -145,4 +145,30 @@
 * Minstrely
   * 19th century american popular genre that features racist depictions of African Americans (blackface)
  
+# Listening Section
+
+* 11-4 Big Mamma Thornton, Hound Dog
+* 11-5 Elvis Presley, Hound Dog
+* 11-19 Sometimes I Feel Like a Motherless Child
+* 11-24 Lead Belly, De Kalb Blues
+* 11-25 BB King, Three O’Clock Blues
+* 11-37 Bessie Smith, Backwater Blues
+* 11-38 Bessie Smith, St. Louis Blues*
+* 11-32 Nina Simone, Mississippi Goddamn
+* 11-34 Little Richard, Tutti Fruity
+* 11-39 Tina Turner, What’s Love Got to Do With It?
+* 11-41 Creedence Clearwater Revival, Proud Mary
+* 11-42 Ike and Tina Turner, Proud May
+* 11-51 Beyoncé, Freedom*
+
+* 10-1 Elizabeth Kumi and Joseph Manu, Talking Drum - Atumpan "Talking" drum
+* 10-4 Fela Kuti, Teacher Don’t Teach Me Nonsense - Afrobeat/Highlife
+* 10-5 Fela Kuti, Unknown Soldier - Afrobeat/Highlife
+* 10-9 Fontomfrom Ensemble of Eyisam Mbensuon, Fontomfrom - Fontomfrom ensemble
+* 10-23 Kendougou Foly, Neba Solo
+* 10-24 Bassekou Kouyaté, The River Tune
+* 10-28* Seckou Keita, Dounuya*
+* 10-40 Toumani Diabaté and Taj Mahal, Catfish Blues
+* 10-43* Toumani Diabaté and Taj Mahal, Atlanta Kaira*
+ 
 
