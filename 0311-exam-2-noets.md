@@ -142,9 +142,79 @@
   * Classic Blues
     * Blended early blues, jazz, and vaudevill performances
    
-* Minstrely
+* Minstrely / Blackface performance
   * 19th century american popular genre that features racist depictions of African Americans (blackface)
+  * W.C. Handy, wrote *Memphis Blues*
  
+* Harlem Renaissance
+ * When African Americans came to Harlem in he 1920s, they lived with eachother and often shared and expressed their own art
+ * Many emergnet forms of african american music like blues, folk, urban, and vaudeville began to pop up
+  * Langson Hughes - poet
+  * Duke Ellington - respected jazz musician
+  * Cotton club - Club in Harlem that featured preformances by the leading black musicians of the era
+
+* Bessie Smith / Ma Rainey
+ * Famous classic blues singers who started in vaudeville
+ * First black artists to make records
+ * Solo woman singer accompanied by a jazz band
+
+* Blues structure
+ * Composed in 12-bar blues form
+ * A-A-B verse structure
+
+# Seyi's Lecture
+
+* Development of popular genres
+ * Highlife
+  * Highlife originated in the early 20th century in Ghana when musicians began blending traditional
+African rhythms with Western instrumentation and melodies.
+  * Highlife music was initially associated with the urban middle and upper classes in Ghana
+  * Instrumentation - horns and guitars
+  * Musical Africanism - Polyrhythms, polyphony, timeline, ostinato
+ * Afrobeat
+  * Musical style pioneered by Fela Kuti
+  * Blend of highlife, Yoruba chant, highlife, modal jazz, and funk
+  * Aimed at making political, social, and cultural statements
+  * Musical elements - African style percussion and vocal, call and response, endless groove,
+ostinato bass, groovy drums, and funky horn section
+  * Harmonic backdrops of funk and Soul And Improvisation from Jazz
+
+* Fela Kuti
+  * Multi-talented musician: Bandleader, Composer, Vocalist, Saxophonist, trumpeter, keyboardist
+  * Political Activist
+  * Arrested over 200 times by Nigerian government
+  * 28 wives
+* E.T. Mensah
+  * considered the father of highlife music in West Africa.
+ 
+* Pan Africanism
+  * the principle or advocacy of the political union of all the indigenous inhabitants of Africa.
+
+# Phil's Lecture
+
+* Ludomusicology
+  * The study of music and sound in video games; how these are integrated into the
+player experience in terms of functionality and affect.
+
+* Diegetic/Non-diegetic sound
+  * Diegetic - being played in the media itself; the audience AND the characters
+can hear it.
+  * Non-diegetic - not heard by the characters. For the audience alone
+
+* Adaptive and interactive sound
+  * Adaptive - Caused by events in the game that are not directly caused by the player (like the passage of time)
+  * Interactive - Music and sound are the result of the player interacting with the game (picking up items, defeating enemy)
+* Nationality in Fighting Games
+  * The musical differences baked into a video game’s geography take on a different context
+when a virtual world is modeled after the real world.
+  * One-on-one fights represent not only clashes of martial arts styles, but of cultures and
+ideologies 
+* Fire Temple Controversy
+  * Used an islamic chant in a way that was disrespectful to the culture 
+* Pi Nai
+  * A four-reeded woodwind instrument from Thailand. It resembles an oboe, but has a
+distinctly buzzy and pinched sort of sound. 
+
 # Listening Section
 
 * 11-4 Big Mamma Thornton, Hound Dog
