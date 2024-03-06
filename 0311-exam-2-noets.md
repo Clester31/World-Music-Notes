@@ -147,37 +147,37 @@
   * W.C. Handy, wrote *Memphis Blues*
  
 * Harlem Renaissance
- * When African Americans came to Harlem in he 1920s, they lived with eachother and often shared and expressed their own art
- * Many emergnet forms of african american music like blues, folk, urban, and vaudeville began to pop up
+  * When African Americans came to Harlem in he 1920s, they lived with eachother and often shared and expressed their own art
+  * Many emergnet forms of african american music like blues, folk, urban, and vaudeville began to pop up
   * Langson Hughes - poet
   * Duke Ellington - respected jazz musician
   * Cotton club - Club in Harlem that featured preformances by the leading black musicians of the era
 
 * Bessie Smith / Ma Rainey
- * Famous classic blues singers who started in vaudeville
- * First black artists to make records
- * Solo woman singer accompanied by a jazz band
+  * Famous classic blues singers who started in vaudeville
+  * First black artists to make records
+  * Solo woman singer accompanied by a jazz band
 
 * Blues structure
- * Composed in 12-bar blues form
- * A-A-B verse structure
+  * Composed in 12-bar blues form
+  * A-A-B verse structure
 
 # Seyi's Lecture
 
 * Development of popular genres
- * Highlife
-  * Highlife originated in the early 20th century in Ghana when musicians began blending traditional
+  * Highlife
+    * Highlife originated in the early 20th century in Ghana when musicians began blending traditional
 African rhythms with Western instrumentation and melodies.
-  * Highlife music was initially associated with the urban middle and upper classes in Ghana
-  * Instrumentation - horns and guitars
-  * Musical Africanism - Polyrhythms, polyphony, timeline, ostinato
- * Afrobeat
-  * Musical style pioneered by Fela Kuti
-  * Blend of highlife, Yoruba chant, highlife, modal jazz, and funk
-  * Aimed at making political, social, and cultural statements
-  * Musical elements - African style percussion and vocal, call and response, endless groove,
-ostinato bass, groovy drums, and funky horn section
-  * Harmonic backdrops of funk and Soul And Improvisation from Jazz
+   * Highlife music was initially associated with the urban middle and upper classes in Ghana
+   * Instrumentation - horns and guitars
+   * Musical Africanism - Polyrhythms, polyphony, timeline, ostinato
+  * Afrobeat
+    * Musical style pioneered by Fela Kuti
+    * Blend of highlife, Yoruba chant, highlife, modal jazz, and funk
+    * Aimed at making political, social, and cultural statements
+    * Musical elements - African style percussion and vocal, call and response, endless groove,
+  ostinato bass, groovy drums, and funky horn section
+    * Harmonic backdrops of funk and Soul And Improvisation from Jazz
 
 * Fela Kuti
   * Multi-talented musician: Bandleader, Composer, Vocalist, Saxophonist, trumpeter, keyboardist
@@ -218,27 +218,27 @@ distinctly buzzy and pinched sort of sound.
 # Listening Section
 
 * 11-4 Big Mamma Thornton, Hound Dog
-* 11-5 Elvis Presley, Hound Dog
+* 11-5 Elvis Presley, Hound Dog - Appropriation
 * 11-19 Sometimes I Feel Like a Motherless Child
-* 11-24 Lead Belly, De Kalb Blues
-* 11-25 BB King, Three O’Clock Blues
-* 11-37 Bessie Smith, Backwater Blues
-* 11-38 Bessie Smith, St. Louis Blues*
+* 11-24 Lead Belly, De Kalb Blues - Rural Blues
+* 11-25 BB King, Three O’Clock Blues - Urban Blues
+* 11-37 Bessie Smith, Backwater Blues - Classic blues
+* 11-38 Bessie Smith, St. Louis Blues* - Classic blues
 * 11-32 Nina Simone, Mississippi Goddamn
-* 11-34 Little Richard, Tutti Fruity
+* 11-34 Little Richard, Tutti Fruity - Rock n Roll
 * 11-39 Tina Turner, What’s Love Got to Do With It?
-* 11-41 Creedence Clearwater Revival, Proud Mary
-* 11-42 Ike and Tina Turner, Proud May
+* 11-41 Creedence Clearwater Revival, Proud Mary - Rock n Roll
+* 11-42 Ike and Tina Turner, Proud Mary - covers
 * 11-51 Beyoncé, Freedom*
 
 * 10-1 Elizabeth Kumi and Joseph Manu, Talking Drum - Atumpan "Talking" drum
 * 10-4 Fela Kuti, Teacher Don’t Teach Me Nonsense - Afrobeat/Highlife
 * 10-5 Fela Kuti, Unknown Soldier - Afrobeat/Highlife
 * 10-9 Fontomfrom Ensemble of Eyisam Mbensuon, Fontomfrom - Fontomfrom ensemble
-* 10-23 Kendougou Foly, Neba Solo
-* 10-24 Bassekou Kouyaté, The River Tune
-* 10-28* Seckou Keita, Dounuya*
-* 10-40 Toumani Diabaté and Taj Mahal, Catfish Blues
-* 10-43* Toumani Diabaté and Taj Mahal, Atlanta Kaira*
+* 10-23 Kendougou Foly, Neba Solo - Bala
+* 10-24 Bassekou Kouyaté, The River Tune - Koni
+* 10-28* Seckou Keita, Dounuya* - Sataro
+* 10-40 Toumani Diabaté and Taj Mahal, Catfish Blues - Kora
+* 10-43* Toumani Diabaté and Taj Mahal, Atlanta Kaira* - Kora
  
 
